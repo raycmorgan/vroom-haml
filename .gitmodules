@@ -1,3 +1,6 @@
 [submodule "haml-js"]
 	path = haml-js
 	url = git://github.com/creationix/haml-js.git
+[submodule "vroom"]
+	path = vroom
+	url = git://github.com/raycmorgan/vroom.git
