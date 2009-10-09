@@ -1,0 +1,3 @@
+[submodule "haml-js"]
+	path = haml-js
+	url = git://github.com/creationix/haml-js.git
